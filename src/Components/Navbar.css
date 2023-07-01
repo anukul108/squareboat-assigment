@@ -1,0 +1,44 @@
+.main{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    padding: 19px 17px;
+    align-items: center;
+}
+
+img{
+    width: 100px;
+}
+
+ul{
+    justify-content: space-around;
+    display: flex;
+    list-style-type: none;
+    color: white;
+    width: 50%;
+}
+
+
+a:hover{
+    cursor: pointer;
+    color: rgb(148, 147, 147);
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.input-container{
+    width: 21%;
+}
+
+input{
+    border-radius: 3px;
+    margin-right: 24px;
+    height: 23px;
+    text-decoration: none;
+    width: 70%;
+    padding: 0px 6px;
+}
+

@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+
+.heading{
+    height: 15vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+

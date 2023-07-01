@@ -1,0 +1,32 @@
+.fetchApi{
+    width: 97%;
+    margin: 5px auto;
+    padding: 10px;
+    min-height: 100vh;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+.main-data-div{
+    width: 93%;
+    margin: 5px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.data-div{
+    box-shadow: 2px 2px 10px silver;
+    width: 32%;
+    margin: 10px auto;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+img{
+    margin-bottom: 4px;
+    width: 100%;
+    border-radius: 5px;
+}
